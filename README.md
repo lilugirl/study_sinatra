@@ -19,3 +19,8 @@ $ gem install rspec rack-test
 $ cd hello
 $ rspec app_test.rb
 ```
+
+安装DataMapper
+```
+$ gem install sqlite3 data_mapper dm-sqlite-adapter
+```
