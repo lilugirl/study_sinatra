@@ -12,5 +12,10 @@ $ ruby app.rb
 
 用RSpec来测试
 ```
-gem install rspec rack-test
+$ gem install rspec rack-test
+```
+打开另一个终端 开启测试看看
+```
+$ cd hello
+$ rspec app_test.rb
 ```
